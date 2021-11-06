@@ -1,3 +1,5 @@
+from math import ceil
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -26,9 +28,6 @@ two = np.array([
     1, 1, 1, 1, 1,
 ])
 patterns = [zero, one, two]
-
-testPattern = two*-1
-patterns.append(testPattern)
 
 w = np.zeros((30, 30))
 for miu in patterns:
@@ -69,8 +68,8 @@ def simulate(x, w, N, update_method):
 
     # Create grid
     no_columns = int(np.sqrt(N))
-    no_rows = int(N/no_columns+1)
-    fig1, ax1 = plt.subplots(no_columns, no_rows)
+    no_rows = ceil(N/no_columns)
+    fig1, ax1 = plt.subplots(no_rows, no_columns)
     for i in range(ax1.shape[0]):
         for j in range(ax1.shape[1]):
             ax1[i][j].set_axis_off()
