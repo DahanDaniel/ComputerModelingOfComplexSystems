@@ -3,7 +3,7 @@ This is a repository where I keep my solutions to the problems from class Comput
 
 # Snapshots from each class
 
-## Lab 1 was an introductory lecture
+## Lab 1 was an introductory lecture and discussion about this year's Nobel Prize
 
 ## Lab 2 - Spin Glass
 
