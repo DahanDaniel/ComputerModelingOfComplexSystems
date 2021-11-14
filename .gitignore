@@ -1,8 +1,11 @@
 # My files
+.vscode
 mcsenv
 starlingsAndHawk/starlingsSimulation/*
 starlingsAndHawk/starlingsNoHawk.avi
 starlingsAndHawk/starlingsAndHawk.avi
+starlingsAndHawk/video.avi
+zacharysKarateClub/temp/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
