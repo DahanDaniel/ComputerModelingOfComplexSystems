@@ -16,4 +16,4 @@ This is a repository where I keep my solutions to the problems from class Comput
 
 ## Lab 4 - Zachary's Karate Club
 
-![Network evolution](zacharysKarateClub\snapshot.png "Network evolution")
+![Network evolution](zacharysKarateClub/snapshot.png "Network evolution")
