@@ -6,6 +6,9 @@ starlingsAndHawk/starlingsNoHawk.avi
 starlingsAndHawk/starlingsAndHawk.avi
 starlingsAndHawk/video.avi
 zacharysKarateClub/temp/*
+zacharysKarateClub/temp_with_str
+zacharysKarateClub/temp_wo_str
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
