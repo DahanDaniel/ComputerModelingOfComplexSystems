@@ -1,5 +1,6 @@
 # My files
 .vscode
+venv
 mcsenv
 starlingsAndHawk/starlingsSimulation/*
 starlingsAndHawk/starlingsNoHawk.avi
