@@ -18,9 +18,10 @@ This is a repository where I keep my solutions to the problems from class Comput
 
 ![Network evolution](zacharysKarateClub/snapshot.png "Network evolution")
 
-## Lab 5 - Ultracold Quantum Scattering (3 parts)
+## Lab 5, 6, 7 - Ultracold Quantum Scattering (3 parts)
 
 ![Elastic cross section](ultracoldQuantumScattering/snapshot.png "Ultracold quntum scattering")
+![Hyperfine Spectra](ultracoldQuantumScattering/snapshot2.png "Hyperfine Spectra")
 
 ## Lab 8 - Nanostructures
 
